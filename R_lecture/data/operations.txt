@@ -1,0 +1,13 @@
+operation	side_effect	n
+A	0	61
+A	1	28
+A	2	7
+B	0	68
+B	1	23
+B	2	13
+C	0	58
+C	1	40
+C	2	12
+D	0	53
+D	1	38
+D	2	16

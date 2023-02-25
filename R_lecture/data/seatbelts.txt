@@ -1,0 +1,5 @@
+seatbelts	fatal	n
+yes	yes	7
+yes	no	89
+no	yes	24
+no	no	122
